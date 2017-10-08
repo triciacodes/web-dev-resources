@@ -5,6 +5,8 @@
 * [MDN: Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [Google: Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
+<br>
+
 ## CSS
 
 #### Web Reference
@@ -17,6 +19,8 @@
 #### Articles
 * [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
 
+<br>
+
 ## JavaScript
 
 #### Books
@@ -25,15 +29,19 @@
 
 #### Courses
 * [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
-* [https://www.codecademy.com/learn/introduction-to-javascript](Introduction to JavaScript) by [Codecademy](https://www.codecademy.com)
+* [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) by [Codecademy](https://www.codecademy.com)
 
-## Responsive Design
+<br>
+
+## Responsive
 
 #### Articles
 * [Responsive Design With Viewport Control](https://bitsofco.de/responsive-design-viewport/) by [Ire Aderinokun](https://bitsofco.de/)
 
 #### Courses
 * [Responsive Design Fundamentals](https://classroom.udacity.com/courses/ud893) by [Udacity](https://classroom.udacity.com)
+
+<br>
 
 ## Design
 
