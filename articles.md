@@ -1,5 +1,4 @@
 # Web Development and Design Reading List
-List of web-dev and design articles I've read and found useful
 
 ### CSS
 [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
