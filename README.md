@@ -9,7 +9,7 @@
 
 ## CSS
 
-#### Web Reference
+#### Reference
 
 * [CSS Reference](http://cssreference.io/)
 * [CSS Tricks](https://css-tricks.com/)
@@ -18,6 +18,19 @@
 
 #### Articles
 * [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
+
+<br>
+
+## CSS Flexbox/Grid
+
+#### Reference
+
+* [Flexbox Specs](https://www.w3.org/TR/css-flexbox/)
+
+#### Articles
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by [Chris Coyier](https://css-tricks.com)
+* [Don’t Overthink It (Flexbox) Grids](https://css-tricks.com/dont-overthink-flexbox-grids/) by [Chris Coyier](https://css-tricks.com)
+* [Better, Simpler Grid Systems](https://philipwalton.github.io/solved-by-flexbox/demos/grids/) by [Philip Walton](https://philipwalton.com/)
 
 <br>
 
