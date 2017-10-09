@@ -43,6 +43,16 @@
 
 <br>
 
+## Software
+
+#### Sketch
+* [Introduction to Sketch for web design](https://www.youtube.com/watch?v=BoYNYIp_cfY&t) by [CharliMarieTV](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) (video)
+* [Sketch App Tutorial for Beginners](https://www.youtube.com/watch?v=GoO1VMjJ9fk&list=PLZS9rF0GCDI4ulUDut3rt5QrgOd_RW-mJ) (playlist, 8 videos)
+
+
+
+<br>
+
 ## Design
 
 #### Articles
