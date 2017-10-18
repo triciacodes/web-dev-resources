@@ -46,6 +46,9 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 ### JavaScript
 
+#### Reference
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 #### Books
 * [JavaScript and jQuery](http://javascriptbook.com/) by Jon Duckett
 * [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) by Douglas Crockford
