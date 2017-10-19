@@ -72,7 +72,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 ### Sass
 
 #### Articles
-* [How to use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins) by [Samuel Oloruntoba](https://twitter.com/kayandrae07)
+* [How to Use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins) by [Samuel Oloruntoba](https://twitter.com/kayandrae07)
 
 #### Books
 * [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers) by [Dan Cederholm](http://simplebits.com/)
