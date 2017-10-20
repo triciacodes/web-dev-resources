@@ -92,3 +92,10 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 #### Articles
 * [Designing Mobile First](https://medium.com/design-with-sketch/designing-mobile-first-a082d2b4a4c8) by [Meng To](https://medium.com/@mengto)
+
+- - -
+
+### Typography
+
+#### Books
+* [On Web Typography](https://abookapart.com/products/on-web-typography) by [Jason Santa Maria](http://jasonsantamaria.com/)
