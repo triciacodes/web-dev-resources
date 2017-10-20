@@ -57,6 +57,9 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
 * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) by [Codecademy](https://www.codecademy.com)
 
+#### Videos
+* [Selecting & Changing Website Elements (DOM manipulation)](https://www.youtube.com/watch?v=eaLKqoB9Fu0) by [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
 - - - 
 
 ### Responsive
