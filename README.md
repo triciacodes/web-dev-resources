@@ -17,6 +17,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [CSS Tricks](https://css-tricks.com/)
 * [HTML Dog / CSS Tutorials](http://htmldog.com/guides/css/)
 * [CSS Guidelines](https://cssguidelin.es/)
+* [HTML and CSS Code Guide](http://codeguide.co)
 
 #### Articles
 * [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
