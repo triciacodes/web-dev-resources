@@ -6,6 +6,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 * [MDN: Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
 * [Google: Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 - - - 
 
@@ -18,9 +19,13 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [HTML Dog / CSS Tutorials](http://htmldog.com/guides/css/)
 * [CSS Guidelines](https://cssguidelin.es/)
 * [HTML and CSS Code Guide](http://codeguide.co)
+* [Wikipedia: CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 #### Articles
 * [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
+* [Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library) by [Stuart Robson](http://www.alwaystwisted.com/)
+* [An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures) by [Danielle Graham](https://codepen.io/hidanielle/posts/popular/)
+* [7 habits of highly effective media queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/) by [Brad Frost](http://bradfrost.com/)
 
 - - - 
 
@@ -34,7 +39,6 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by [Chris Coyier](https://css-tricks.com)
 * [Don’t Overthink It (Flexbox) Grids](https://css-tricks.com/dont-overthink-flexbox-grids/) by [Chris Coyier](https://css-tricks.com)
 * [Better, Simpler Grid Systems](https://philipwalton.github.io/solved-by-flexbox/demos/grids/) by [Philip Walton](https://philipwalton.com/)
-* [Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library) by [Stuart Robson](http://www.alwaystwisted.com/)
 
 - - - 
 
