@@ -1,6 +1,8 @@
-## Web Development and Design Resources
+# Web Development and Design Resources
 
 Resources only included here if I have read, watched, used, or otherwise consumed them! Only the good stuff!
+
+## Code
 
 ### General Reference
 
@@ -102,9 +104,9 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [Sketch App Tutorial for Beginners](https://www.youtube.com/watch?v=GoO1VMjJ9fk&list=PLZS9rF0GCDI4ulUDut3rt5QrgOd_RW-mJ) (playlist, 8 videos)
 * [Sketch Shortcuts](http://sketchshortcuts.com/)
 
-- - -
+## Design
 
-### Design
+### Mobile
 
 #### Articles
 * [Designing Mobile First](https://medium.com/design-with-sketch/designing-mobile-first-a082d2b4a4c8) by [Meng To](https://medium.com/@mengto)
