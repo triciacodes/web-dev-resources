@@ -34,6 +34,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by [Chris Coyier](https://css-tricks.com)
 * [Don’t Overthink It (Flexbox) Grids](https://css-tricks.com/dont-overthink-flexbox-grids/) by [Chris Coyier](https://css-tricks.com)
 * [Better, Simpler Grid Systems](https://philipwalton.github.io/solved-by-flexbox/demos/grids/) by [Philip Walton](https://philipwalton.com/)
+* [Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library) by [Stuart Robson](http://www.alwaystwisted.com/)
 
 - - - 
 
