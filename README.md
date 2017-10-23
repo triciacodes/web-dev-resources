@@ -68,6 +68,13 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 - - - 
 
+### PHP
+
+#### Videos
+* [Learn PHP in 15 minutes](https://www.youtube.com/watch?v=ZdP0KM49IVk) by [Jake Wright](https://www.youtube.com/user/jaketvee/videos)
+
+- - - 
+
 ### Responsive
 
 #### Articles
