@@ -25,7 +25,6 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
 * [Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library) by [Stuart Robson](http://www.alwaystwisted.com/)
 * [An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures) by [Danielle Graham](https://codepen.io/hidanielle/posts/popular/)
-* [7 habits of highly effective media queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/) by [Brad Frost](http://bradfrost.com/)
 
 - - - 
 
@@ -79,6 +78,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 #### Articles
 * [Responsive Design With Viewport Control](https://bitsofco.de/responsive-design-viewport/) by [Ire Aderinokun](https://bitsofco.de/)
+* [7 habits of highly effective media queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/) by [Brad Frost](http://bradfrost.com/)
 
 #### Courses
 * [Responsive Design Fundamentals](https://classroom.udacity.com/courses/ud893) by [Udacity](https://classroom.udacity.com)
