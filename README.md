@@ -57,6 +57,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 #### Reference
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [MDN: Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 #### Books
 * [JavaScript and jQuery](http://javascriptbook.com/) by Jon Duckett
