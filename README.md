@@ -1,6 +1,6 @@
 # Web Development and Design Resources
 
-Resources only included here if I have read, watched, used, or otherwise consumed them! Only the good stuff!
+Resources only included here if I have read, watched, used, or otherwise consumed them. Only the good stuff!
 
 <br><br>
 
@@ -32,10 +32,16 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 - - - 
 
+### CSS Animation
+
+#### Videos
+* [Build-In Load Animation — CSS Animations](https://www.youtube.com/watch?v=AWAnrQCYsVM&t=11s) by [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+
+- - - 
+
 ### CSS Flexbox/Grid
 
 #### Reference
-
 * [Flexbox Specs](https://www.w3.org/TR/css-flexbox/)
 
 #### Articles
