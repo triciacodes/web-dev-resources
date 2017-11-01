@@ -30,6 +30,9 @@ Resources only included here if I have read, watched, used, or otherwise consume
 * [Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library) by [Stuart Robson](http://www.alwaystwisted.com/)
 * [An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures) by [Danielle Graham](https://codepen.io/hidanielle/posts/popular/)
 
+####Videos
+* [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be) by [https://www.youtube.com/user/phpacademy/featured](Codecourse) (explains WHY clearfix works)
+
 - - - 
 
 ### CSS Animation
