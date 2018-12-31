@@ -51,57 +51,51 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 ### Git/GitHub
 
-#### Reference
-
-* [Git ignore files](https://help.github.com/articles/ignoring-files/)
+| Type | Resource |
+| :--- | :--- |
+| Reference | [Git ignore files](https://help.github.com/articles/ignoring-files/)
 
 - - - 
 
 ### JavaScript
 
-#### Reference
-* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-* [MDN: Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-
-#### Books
-* [JavaScript and jQuery](http://javascriptbook.com/) by Jon Duckett
-* [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) by Douglas Crockford
-
-#### Courses
-* [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
-* [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) by [Codecademy](https://www.codecademy.com)
-
-#### Videos
-* [Selecting & Changing Website Elements (DOM manipulation)](https://www.youtube.com/watch?v=eaLKqoB9Fu0) by [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+| Type | Resource |
+| :--- | :--- |
+| Reference | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+|| [MDN: Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+| Books | [JavaScript and jQuery](http://javascriptbook.com/) by Jon Duckett
+| | [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) by Douglas Crockford
+| Courses | [Practical JavaScript](https://watchandcode.com/p/practical-javascript)
+|| [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) by [Codecademy](https://www.codecademy.com)
+| Videos | [Selecting & Changing Website Elements (DOM manipulation)](https://www.youtube.com/watch?v=eaLKqoB9Fu0) by [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 - - - 
 
 ### PHP
 
-#### Videos
-* [Learn PHP in 15 minutes](https://www.youtube.com/watch?v=ZdP0KM49IVk) by [Jake Wright](https://www.youtube.com/user/jaketvee/videos)
-* [How to Create a Website Template Using PHP](https://www.youtube.com/watch?v=lUFXLHqi-uQ) by [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
+| Type | Resource |
+| :--- | :--- |
+| Videos | [Learn PHP in 15 minutes](https://www.youtube.com/watch?v=ZdP0KM49IVk) by [Jake Wright](https://www.youtube.com/user/jaketvee/videos)
+|| [How to Create a Website Template Using PHP](https://www.youtube.com/watch?v=lUFXLHqi-uQ) by [John Morris](https://www.youtube.com/channel/UCFh7FvnJ_0sVP4V0rZe6AaA)
 
 - - - 
 
 ### Responsive
 
-#### Articles
-* [Responsive Design With Viewport Control](https://bitsofco.de/responsive-design-viewport/) by [Ire Aderinokun](https://bitsofco.de/)
-* [7 habits of highly effective media queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/) by [Brad Frost](http://bradfrost.com/)
-
-#### Courses
-* [Responsive Design Fundamentals](https://classroom.udacity.com/courses/ud893) by [Udacity](https://classroom.udacity.com)
+| Type | Resource |
+| :--- | :--- |
+| Articles | [Responsive Design With Viewport Control](https://bitsofco.de/responsive-design-viewport/) by [Ire Aderinokun](https://bitsofco.de/)
+|| [7 habits of highly effective media queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/) by [Brad Frost](http://bradfrost.com/)
+| Courses | [Responsive Design Fundamentals](https://classroom.udacity.com/courses/ud893) by [Udacity](https://classroom.udacity.com)
 
 - - - 
 
 ### Sass
 
-#### Articles
-* [How to Use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins) by [Samuel Oloruntoba](https://twitter.com/kayandrae07)
-
-#### Books
-* [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers) by [Dan Cederholm](http://simplebits.com/)
+| Type | Resource |
+| :--- | :--- |
+| Articles | [How to Use Sass Mixins](https://scotch.io/tutorials/how-to-use-sass-mixins)
+| Books | [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers) by [Dan Cederholm](http://simplebits.com/)
 
 - - - 
 
