@@ -16,17 +16,17 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 ### CSS
 
-| Type | Resource | Notes |
-| :--- | :--- | :--- |
+| Type | Resource |
+| :--- | :--- |
 | Reference | [CSS Reference](http://cssreference.io/)
 ||[CSS Tricks](https://css-tricks.com/)
 ||[HTML Dog / CSS Tutorials](http://htmldog.com/guides/css/)
 ||[CSS Guidelines](https://cssguidelin.es/)
 ||[HTML and CSS Code Guide](http://codeguide.co)
-| Articles | [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css) by [Harry Roberts](https://csswizardry.com)
-||[Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library) by [Stuart Robson](http://www.alwaystwisted.com/)
-||[An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures) by [Danielle Graham](https://codepen.io/hidanielle/posts/popular/)
-| Videos | [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be) by [Codecourse](https://www.youtube.com/user/phpacademy/featured) | explains WHY clearfix works
+| Articles | [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css)
+||[Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library)
+||[An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures)
+| Videos | [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be) (explains WHY clearfix works)
 
 - - - 
 
