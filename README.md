@@ -26,7 +26,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 | Articles | [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css)
 ||[Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library)
 ||[An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures)
-| Videos | [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be) (explains WHY clearfix works)
+| Videos | [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be)\(explains WHY clearfix works)
 
 - - - 
 
