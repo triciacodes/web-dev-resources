@@ -19,10 +19,10 @@ Resources only included here if I have read, watched, used, or otherwise consume
 | Type | Resources |
 | --- | --- |
 | Reference | * [CSS Reference](http://cssreference.io/)
-* [CSS Tricks](https://css-tricks.com/)
-* [HTML Dog / CSS Tutorials](http://htmldog.com/guides/css/)
-* [CSS Guidelines](https://cssguidelin.es/)
-* [HTML and CSS Code Guide](http://codeguide.co)
+||[CSS Tricks](https://css-tricks.com/)
+||[HTML Dog / CSS Tutorials](http://htmldog.com/guides/css/)
+||[CSS Guidelines](https://cssguidelin.es/)
+||[HTML and CSS Code Guide](http://codeguide.co)
 
 #### Reference
 
