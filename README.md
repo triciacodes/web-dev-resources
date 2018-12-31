@@ -17,7 +17,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 ### CSS
 
 | Type | Resource | Notes |
-| --- | --- |
+| --- | --- | --- |
 | Reference | [CSS Reference](http://cssreference.io/)
 ||[CSS Tricks](https://css-tricks.com/)
 ||[HTML Dog / CSS Tutorials](http://htmldog.com/guides/css/)
