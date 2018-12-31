@@ -107,6 +107,8 @@ Resources only included here if I have read, watched, used, or otherwise consume
 #### Books
 * [Sass for Web Designers](https://abookapart.com/products/sass-for-web-designers) by [Dan Cederholm](http://simplebits.com/)
 
+- - - 
+
 <br><br>
 
 # Design
@@ -118,7 +120,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 - - -
 
-#### Software // Sketch
+### Software // Sketch
 * [Introduction to Sketch for web design](https://www.youtube.com/watch?v=BoYNYIp_cfY&t) by [CharliMarieTV](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) (video)
 * [Sketch App Tutorial for Beginners](https://www.youtube.com/watch?v=GoO1VMjJ9fk&list=PLZS9rF0GCDI4ulUDut3rt5QrgOd_RW-mJ) (playlist, 8 videos)
 * [Sketch Shortcuts](http://sketchshortcuts.com/)
