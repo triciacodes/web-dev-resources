@@ -2,7 +2,7 @@
 
 Resources only included here if I have read, watched, used, or otherwise consumed them. Only the good stuff!
 
-<br><br>
+<br>
 
 # Code
 
