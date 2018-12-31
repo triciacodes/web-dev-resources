@@ -26,26 +26,26 @@ Resources only included here if I have read, watched, used, or otherwise consume
 | Articles | [Code smells in CSS](https://csswizardry.com/2012/11/code-smells-in-css)
 ||[Determining CSS Units For Your Pattern Library](http://www.alwaystwisted.com/articles/determining-css-units-for-your-pattern-library)
 ||[An Introduction to CSS Methodologies: Naming Conventions and File Structures](https://codepen.io/hidanielle/post/css-methodologies-naming-conventions-and-file-structures)
-| Videos | [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be)<br>(explains WHY clearfix works)
+| Videos | [CSS Floats & Clearfix](https://www.youtube.com/watch?v=b92sObtQGzA&feature=youtu.be) (explains WHY clearfix works)
 
 - - - 
 
 ### CSS Animation
 
-#### Videos
-* [Build-In Load Animation — CSS Animations](https://www.youtube.com/watch?v=AWAnrQCYsVM&t=11s) by [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+| Type | Resource |
+| :--- | :--- |
+| Videos | [Build-In Load Animation — CSS Animations](https://www.youtube.com/watch?v=AWAnrQCYsVM&t=11s)
 
 - - - 
 
 ### CSS Flexbox/Grid
 
-#### Reference
-* [Flexbox Specs](https://www.w3.org/TR/css-flexbox/)
-
-#### Articles
-* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by [Chris Coyier](https://css-tricks.com)
-* [Don’t Overthink It (Flexbox) Grids](https://css-tricks.com/dont-overthink-flexbox-grids/) by [Chris Coyier](https://css-tricks.com)
-* [Better, Simpler Grid Systems](https://philipwalton.github.io/solved-by-flexbox/demos/grids/) by [Philip Walton](https://philipwalton.com/)
+| Type | Resource |
+| :--- | :--- |
+| Reference | [Flexbox Specs](https://www.w3.org/TR/css-flexbox/)
+| Articles | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+|| [Don’t Overthink It (Flexbox) Grids](https://css-tricks.com/dont-overthink-flexbox-grids/)
+|| [Better, Simpler Grid Systems](https://philipwalton.github.io/solved-by-flexbox/demos/grids/)
 
 - - - 
 
