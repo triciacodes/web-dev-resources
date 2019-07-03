@@ -89,6 +89,15 @@ Resources only included here if I have read, watched, used, or otherwise consume
 
 - - - 
 
+### Redux
+
+| Type | Resource |
+| :--- | :--- |
+| Reference | [Official Redux Docs](https://react-redux.js.org/introduction/quick-start)
+| Videos | [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) by Net Ninja
+
+- - - 
+
 ### Responsive
 
 | Type | Resource |
