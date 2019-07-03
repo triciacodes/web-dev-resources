@@ -54,7 +54,6 @@ Resources only included here if I have read, watched, used, or otherwise consume
 | Type | Resource |
 | :--- | :--- |
 | Courses | [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) by Udacity
-)
 | Reference | [Git ignore files](https://help.github.com/articles/ignoring-files/)
 
 
