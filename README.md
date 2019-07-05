@@ -87,7 +87,7 @@ Resources only included here if I have read, watched, used, or otherwise consume
 | Type | Resource |
 | :--- | :--- |
 | Reference | [Official React Docs](https://reactjs.org/docs/getting-started.html)
-| Articles | [JavaScript fundamentals before learning React](http://javascriptbook.com/) by Robin Wieruch
+| Articles | [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) by Robin Wieruch
 
 - - - 
 
